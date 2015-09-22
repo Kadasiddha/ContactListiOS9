@@ -7,6 +7,7 @@ ContactsUI framework is used for fetching contact details.
 
 # Video
 
+![contactlist](https://cloud.githubusercontent.com/assets/8743597/10025994/e1ce1d04-617c-11e5-9042-25d19f2dcab4.gif)
 
 # Contact
 
